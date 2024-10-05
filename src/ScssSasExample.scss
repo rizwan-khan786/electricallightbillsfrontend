@@ -1,0 +1,17 @@
+$primary-color:#3498db;
+$padding:16px;
+
+.container{
+    padding: $padding;
+    background-color:$primary-color;
+    color:white;
+    border-radius: 8px;
+    text-align: center;
+    h1{
+        font-size: 2em;
+    }
+    p {
+        font-size: 1em;
+      }
+}
+

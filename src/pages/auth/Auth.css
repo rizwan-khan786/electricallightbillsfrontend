@@ -1,0 +1,35 @@
+.auth-body {
+    background-color:#626567;
+  }
+.Auth-Container {
+    height: 85vh;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: centerc !important;
+}
+.Auth-Title{
+    font-size:x-large !important;
+    text-align: center;
+    margin-bottom: 4vh!important;
+}
+.Auth-LIB{
+  height: 16vh !important; 
+  /* border: 1px solid red; */
+  /* margin-bottom: 2vh; */
+}
+.Auth-Label{
+color:#B1B1B1;
+font-size:small !important;
+
+}
+.Auth-Button{
+ background-color:#FFA534 !important; 
+ width: 110px;
+ margin-top:4vh !important;
+}
+.Auth-Input{
+  margin-top: 0px !important;
+}
+.Auth-R-Input{
+    margin-top: 10px !important;
+  }

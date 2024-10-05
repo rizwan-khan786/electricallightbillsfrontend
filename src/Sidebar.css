@@ -1,0 +1,14 @@
+.title-billmanagement {
+  font-family: 'Gilroy', sans-serif !important;
+  letter-spacing: 1px !important;
+  font-weight: 400;
+  margin: 5px 0;
+  font-size: 18px;
+  opacity: .8;
+}
+.drawerst {
+  background-image: url('./Images/sidebarimg.jpg');
+}
+.imglogoopen {
+  border-radius: 15px !important;
+}

@@ -1,0 +1,6 @@
+.title-2 {
+    font-family: 'Gilroy', sans-serif !important; /* Correct CSS syntax */
+    text-transform: uppercase !important;
+    color: #0d2136 !important;
+    letter-spacing: 1px !important;
+  }

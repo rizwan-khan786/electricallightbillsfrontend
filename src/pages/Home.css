@@ -1,0 +1,56 @@
+
+/* body {
+  background-color: #F7F7F8;
+} */
+.home-body {
+  background-color: #F7F7F8;
+}
+
+.containerhome{
+  /* background-image: url('../Images/bgimg4.jpg'); */
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-position: center;
+  width:100%;
+  margin-top: 5% !important;
+  
+  /* margin-left: 0px;
+  margin-top: 0px; */
+  z-index: 1;
+  /* position: relative; */
+  /* background-color: #F7F7F8; */
+} 
+.opacity-layer{
+    position: absolute;
+    width:100%;
+    height: 100%;
+    /* background-color:gray;
+    background: linear-gradient(to bottom, #edecef, #ffffff); */
+    opacity: 0.1 !important;
+    z-index: 1;
+}
+.info-card-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows cards to wrap to new line on smaller screens */
+  justify-content: center; /* Centers cards horizontally */
+ 
+}
+.container-infocard{
+   z-index: 2 !important;
+   font-family: "Playwrite GB S", cursive;
+   font-optical-sizing: auto;
+   font-weight:100;
+   font-style: normal;
+   /* color:#C70058 !important; */
+   color:#655d5d !important;
+   display: flex;
+   justify-content: center !important;
+   align-items: center !important;
+   text-align: center !important;
+   background-color: white;
+
+   
+
+} 
